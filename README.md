@@ -1,4 +1,4 @@
-## ABOUT ME
+## I CODE SO I CAN FEED MY CATS!
 
 Software Engineer with over 7 years of experience. Proficient in PHP and JavaScript, with familiarity in Golang. I've contributed to various industries including consultancy, marketing services, online and mobile advertising, ecommerce, and outdoor media monitoring.
 
