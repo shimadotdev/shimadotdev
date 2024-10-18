@@ -6,5 +6,5 @@ Software Engineer with over 7 years of experience. Proficient in PHP and JavaScr
 - PHP, JavaScript, Golang, CSS, HTML
 - MYSQL, Redis
 - Laravel, Lumen, Vuejs, Symfony, RabbitMQ, CodeIgniter, JQuery
-- Docker, CI/CD, AWS, Git, Bash, NGINX
-- SOLID, DRY, DDD, TDD, REST, Design Patterns, System Designs, DB Design, Microservices Architecture, Agile, OOP, MVC
+- Docker, CI/CD, Git, Bash, NGINX
+- SOLID, DRY, DDD, TDD, REST, Design Patterns, DB Design, Microservices Architecture, Agile, OOP, MVC
